@@ -1,0 +1,12 @@
+.loadingComponent {
+	background: rgb(71, 199, 221);
+	border-radius: 15px;
+	padding: 10px;
+	line-height: 1.5;
+	text-align: center;
+}
+
+.loadingComponent h1 {
+	font-weight: normal;
+	text-align: center;
+}

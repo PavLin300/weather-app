@@ -1,0 +1,35 @@
+.searchFrom {
+	display: flex;
+	justify-content: center;
+	padding: 50px;
+}
+
+.searchFrom form {
+	display: flex;
+	gap: 20px;
+}
+
+.searchFrom input {
+	width: 500px;
+	height: 40px;
+	font-size: 20px;
+	border-radius: 10px;
+	border: 2px solid #52b1c9;
+	outline: none;
+	padding: 7px;
+}
+
+.searchFrom button {
+	width: 100px;
+	height: 40px;
+	background: #52b1c9;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+	font-size: 20px;
+	transition: 0.2s;
+}
+
+.searchFrom button:hover {
+	background: #2586a3;
+}
